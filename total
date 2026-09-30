@@ -1,0 +1,20 @@
+<html>
+
+<head>
+    <title>TABLE</title>
+</head>
+</body>
+
+</html>
+<table border="1">
+    <tr>Sr. No</tr>
+    <th>command</th>
+    <th>Activity</th>
+    <th>Weightage</th>
+    <tr>
+    </tr>
+    <td>1</td>
+    <td>CSE</td>
+    <Td>MOOC Course</Td>
+    <br>MOOC Course-CSS JS
+    <br>
